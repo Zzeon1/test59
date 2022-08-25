@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.logo1{
+    width: 75px;
+    margin-top: 3px;
+    margin-left: 150px;
+    height: 40px;
+    object-fit: cover;
+    position: absolute;
+}
+.top-bar{
+    background-color: rgb(35, 38, 35);
+    height: 44px;
+}
+
+.home{
+    min-height:  100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(images/abt-ppr.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+ }
+.heading{
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.heading h1{
+    font-size: 62px;
+}
+.heading p{
+    margin: 10px 0 40px;
+    font-size: 14px;
+    color: white;
+}
+.info-bttn{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+.info-bttn:hover{
+    border: 1px solid white;
+    background: white;
+    transition: 1s;
+    color: black;
+}
+
+nav .fa{
+    display: none;
+}
+
+
+.main-links{
+    justify-content: space-between;
+    margin-left: 50px;
+    position: absolute;
+    margin-right: 100px;
+    
+}
+.mn{
+    margin-left: 48.7vh;
+    position: absolute;
+    margin-top: 13px;
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+
+}
+.mn2{
+    position: absolute;
+    margin-left: 73.1vh;
+    font-size: 12px;
+    margin-top: 13px;
+    color: white;
+    text-decoration: none;
+}
+.mn3{
+    position: absolute;
+    margin-left: 97.5vh;
+    margin-top: 13px;
+     font-size: 12px;
+    text-decoration: none;
+    color: white;
+}
+.mn4{
+    position: absolute;
+    margin-left: 121.9vh;
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+    margin-top: 13px;
+}
+
+ .abt{
+    color: white;
+    margin-top: 6vh;
+    text-align: center;
+    width: 109.7vh;
+    margin-left: 33vh;
+ }
+ .a-head{
+    margin-top: 6.5vh;
+    margin-bottom: 3.6vh;
+ }
+ .a-head2{
+    margin-top: 6.5vh;
+    margin-bottom: 3.6vh;
+ }
+
+ .a-head3{
+    margin-top: 6.5vh;
+    margin-bottom: 3.6vh;
+    
+ }
+ .solution, .problem, .team {
+    line-height: 1.6;
+ }
+.schl{
+    color: white;
+    text-align: center;
+    margin-bottom: 3.6vh;
+    margin-top:  4.8vh;
+}
+.school-map{
+    width:  121.9vh;
+    height: 42.6vh;
+    margin-left: 25.6vh;
+}
+.cntct{
+    justify-content: space-between;
+    position: absolute;
+    width: 121.9vh;
+}
+.insta{
+    margin-left: 121.9vh;
+    color: white;
+    position: fixed;
+    margin-top: 60.9vh;
+}
+.email{
+    margin-left: 0vh;
+    display: inline-block;
+    margin-bottom: 1.2vh;
+    margin-left: 37.8vh;
+    color: white;
+
+}
+.id{
+    color: whitesmoke;
+    margin-left: 37.8vh;
+    margin-top: 1.2vh;
+}
+.in{
+    color: white;
+    text-decoration: none;
+}
+.img-g{
+    margin-left: 48.7vh;
+    margin-right: 1500px;
+    margin-right: 1.2vh;
+    color: white;
+    
+    width: 3.6vh;
+}
+.img-i{
+    margin-left:  980px;
+    margin-right: 1.2vh;
+    width: 3.6vh;
+    color: white;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
